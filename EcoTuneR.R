@@ -276,7 +276,7 @@ ecotuneR <- function(combined_output=NA,export=FALSE, bypass_check= FALSE){
         title = dashboardBrand(
           title = "Eco-tuneR",
           color = "white",
-          href = "https://sciences.ucf.edu/biology/lewislab/",
+          href = "https://web.uri.edu/lewis-lab/",
           image = "https://raw.githubusercontent.com/ecotuneR/EcoTuneR/main/www/ecotuner2.png"
         ),
         sidebarIcon  = shiny::icon("lemon",verify_fa=F),
@@ -306,8 +306,6 @@ ecotuneR <- function(combined_output=NA,export=FALSE, bypass_check= FALSE){
       )},
       footer = {dashboardFooter(
         span(
-          a(href = "https://www.ucf.edu/",
-            img(src = "https://raw.githubusercontent.com/ecotuneR/EcoTuneR/main/www/UCF.png", height = 40, width = 33, align = "right")),
           a(href = "https://www.lsu.edu/",
             img(src = "https://raw.githubusercontent.com/ecotuneR/EcoTuneR/main/www/LSU.png", height = 40, width = 90, align = "right")),
           a(href = "https://www.rhodes.edu/",

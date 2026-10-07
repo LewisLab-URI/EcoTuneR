@@ -38,13 +38,13 @@ EcoTuneR requires R (version ≥ 4.0 recommended) and the following packages, wh
 EcoTuneR is not currently on CRAN. Source it directly from GitHub:
 
 ```r
-source('https://raw.githubusercontent.com/[LewisLab-URI]/EcoTuneR/main/EcoTuneR.R')
+source('https://raw.githubusercontent.com/LewisLab-URI/EcoTuneR/main/EcoTuneR.R')
 ```
 
 Or clone the repository and source locally:
 
 ```bash
-git clone https://github.com/[LewisLab-URI]/EcoTuneR.git
+git clone https://github.com/LewisLab-URI/EcoTuneR.git
 ```
 
 ```r
@@ -94,7 +94,7 @@ Example_combined_output.csv
 
 ```r
 # Source the tool
-source('https://raw.githubusercontent.com/[your-lab]/EcoTuneR/main/EcoTuneR.R')
+source('https://raw.githubusercontent.com/LewisLab-URI/EcoTuneR/main/EcoTuneR.R')
 
 # Load your combined output data
 combined_output <- read.csv("your_combined_output.csv")
@@ -106,9 +106,9 @@ ecotuneR(combined_output)
 ### Using the example dataset
 
 ```r
-source('https://raw.githubusercontent.com/[your-lab]/EcoTuneR/main/EcoTuneR.R')
+source('https://raw.githubusercontent.com/LewisLab-URI/EcoTuneR/main/EcoTuneR.R')
 
-combined_output <- read.csv("https://raw.githubusercontent.com/[your-lab]/EcoTuneR/main/Example%20Datasets/Example_combined_output.csv")
+combined_output <- read.csv("https://raw.githubusercontent.com/LewisLab-URI/EcoTuneR/main/Example%20Datasets/Example_combined_output.csv")
 
 ecotuneR(combined_output, bypass_check = TRUE)
 ```
@@ -192,5 +192,5 @@ This research was funded by the National Academy of Sciences Gulf Research Progr
 
 ## Contact
 
-For questions or issues, please open a GitHub Issue or contact the Lewis Lab at UCF:
-[https://sciences.ucf.edu/biology/lewislab/](https://sciences.ucf.edu/biology/lewislab/)
+For questions or issues, please open a GitHub Issue or contact the Lewis Lab at the University of Rhode Island Graduate School of Oceanography:
+[https://web.uri.edu/lewis-lab/](https://web.uri.edu/lewis-lab/)
