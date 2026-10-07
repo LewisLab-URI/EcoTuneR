@@ -1,5 +1,5 @@
-#source('https://raw.githubusercontent.com/ecotuneR/EcoTuneR/main/EcoTuneR.R')
-#combined_output <- read.csv("https://raw.githubusercontent.com/ecotuneR/EcoTuneR/main/Example%20Datasets/Example_combined_output.csv")
+#source('https://raw.githubusercontent.com/LewisLab-URI/EcoTuneR/main/EcoTuneR.R')
+#combined_output <- read.csv("https://raw.githubusercontent.com/LewisLab-URI/EcoTuneR/main/Example%20Datasets/Example_combined_output.csv")
 
 #ecotuneR(combined_output,F,T)
 
@@ -277,10 +277,10 @@ ecotuneR <- function(combined_output=NA,export=FALSE, bypass_check= FALSE){
           title = "Eco-tuneR",
           color = "white",
           href = "https://web.uri.edu/lewis-lab/",
-          image = "https://raw.githubusercontent.com/ecotuneR/EcoTuneR/main/www/ecotuner2.png"
+          image = "https://raw.githubusercontent.com/LewisLab-URI/EcoTuneR/main/www/ecotuner2.png"
         ),
         sidebarIcon  = shiny::icon("lemon",verify_fa=F),
-        span(img(src = "https://raw.githubusercontent.com/ecotuneR/EcoTuneR/main/www/ecotuner0.png", height = 40, width = 115, align = "right",name = "wefwe")),
+        span(img(src = "https://raw.githubusercontent.com/LewisLab-URI/EcoTuneR/main/www/ecotuner0.png", height = 40, width = 115, align = "right",name = "wefwe")),
         uiOutput("headerdur")
       )},
       sidebar = {dashboardSidebar(
@@ -307,11 +307,11 @@ ecotuneR <- function(combined_output=NA,export=FALSE, bypass_check= FALSE){
       footer = {dashboardFooter(
         span(
           a(href = "https://www.lsu.edu/",
-            img(src = "https://raw.githubusercontent.com/ecotuneR/EcoTuneR/main/www/LSU.png", height = 40, width = 90, align = "right")),
+            img(src = "https://raw.githubusercontent.com/LewisLab-URI/EcoTuneR/main/www/LSU.png", height = 40, width = 90, align = "right")),
           a(href = "https://www.rhodes.edu/",
-            img(src = "https://raw.githubusercontent.com/ecotuneR/EcoTuneR/main/www/RC.png", height = 40, width = 90, align = "right")),
+            img(src = "https://raw.githubusercontent.com/LewisLab-URI/EcoTuneR/main/www/RC.png", height = 40, width = 90, align = "right")),
           a(href = "https://www.nationalacademies.org/gulf/gulf-research-program",
-            img(src = "https://raw.githubusercontent.com/ecotuneR/EcoTuneR/main/www/NASEM.png", height = 40, width = 100, align = "right")),
+            img(src = "https://raw.githubusercontent.com/LewisLab-URI/EcoTuneR/main/www/NASEM.png", height = 40, width = 100, align = "right")),
           h6("This research was funded by the National Academy of Sciences Gulf Research Program", 
              align = "left") 
         )
