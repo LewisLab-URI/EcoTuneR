@@ -1,48 +1,48 @@
-"consumer","lower","upper","mode","tl"
-"consumer1",1.48,5.51,3.73,3.11
-"consumer2",2.83,9.45,3.87,2.54
-"consumer3",3.12,3.89,4.19,3.37
-"consumer4",2.7,3.67,2.74,2.98
-"consumer5",1.66,0.7,3.39,3.18
-"consumer6",2.35,4.38,3.75,2.32
-"consumer7",3.35,-3.11,2.36,3.45
-"consumer8",2.31,6.87,2.07,2.05
-"consumer9",2.12,6.93,3.22,2.95
-"consumer10",2.36,5.28,2.46,2.05
-"consumer11",2.53,7.4,2.63,2.05
-"consumer12",1.96,9.13,3.15,2.94
-"consumer13",2.03,3.82,3.87,3.44
-"consumer14",3.2,2.59,2.74,2.69
-"consumer15",3.09,7.08,3.33,2.55
-"consumer16",3.19,6.05,3.61,2
-"consumer17",1.97,8.15,3.16,2.05
-"consumer18",3.18,3.16,3.76,2.44
-"consumer19",1.6,2.91,2.34,2.54
-"consumer20",3.17,-0.29,3.22,3.2
-"consumer21",2.09,5.67,2.06,2
-"consumer22",1.7,6.47,3.75,3.2
-"consumer23",2.98,2.58,2.44,2.05
-"consumer24",3.03,0.73,2.72,2.54
-"consumer25",3.74,3.43,2.95,2.62
-"consumer26",2.19,5.54,2.72,2.95
-"consumer27",2.79,4.1,3.04,2.62
-"consumer28",2.22,7.46,3.59,2.35
-"consumer29",2,6.4,3.23,3
-"consumer30",3.04,1.94,3.58,2.02
-"consumer31",3.09,3.79,2.44,2
-"consumer32",2.23,3.71,2.76,2.69
-"consumer33",3.18,8.26,3.08,2.16
-"consumer34",3.66,3.57,2.58,2.24
-"consumer35",2.61,4.7,2.02,2
-"consumer36",3.04,0.98,2.66,2.65
-"consumer37",2.23,6.26,3.22,2.16
-"consumer38",3.12,5.21,3.07,3.44
-"consumer39",2.62,5.66,2.36,2.78
-"consumer40",2.38,10.27,3.6,2
-"consumer41",2.65,4.48,3.84,2.65
-"consumer42",2.97,2.78,2.94,2.27
-"consumer43",3.19,6.61,3.48,2.78
-"consumer44",2.59,0.64,3.71,3.18
-"consumer45",3.34,6.94,3.16,2.96
-"consumer46",2.63,7.18,2.22,2.65
-"consumer47",1.58,1.08,3.7,2.65
+Consumer,Lower,Upper,SIA_Mode,EwE_TL,n
+Adult Spot,2,9.21,3.7,2.32,1
+Juvenile Shark,2.03,7.11,4.05,3.44,2
+Adult Blue Catfish,2.57,4.56,3.52,2.95,3
+Adult Atlantic Croaker,2.38,5.34,3.79,2.65,3
+Adult Brown Shrimp,2.11,3.31,2.66,2.16,4
+Juvenile Southern Flounder,2.55,2.91,2.74,2.67,15
+Adult Blue Crab,2.26,2.47,2.36,2.44,33
+Benthic Crustaceans,2,2.17,2.01,2.05,59
+Killifishes,2.61,2.76,2.68,2.62,617
+Juvenile Striped Mullet,2,2.2,2.06,2.72,37
+Juvenile Threadfin Shad,2.03,7.62,3.98,2,2
+Adult Striped Mullet,2.06,3.04,2.56,2,10
+Sea Birds,3.68,4.15,3.9,3.18,11
+Kemp's Ridley Sea Turtle,3.77,4.6,4.17,3.2,14
+Juvenile Sea Catfish,3.15,3.52,3.32,2.3,15
+Juvenile Gizzard Shad,2.17,2.8,2.49,2,15
+Oyster Drill,3.62,3.89,3.75,2.24,16
+Juvenile Blue Catfish,3.18,3.58,3.37,2.54,22
+Juvenile Pinfish,2.75,3,2.86,2.27,30
+Adult Bay Anchovy,3.06,3.29,3.16,2.79,40
+Juvenile Sand Seatrout,3.1,3.44,3.25,3,46
+Adult Sea Catfish,3.28,3.59,3.43,2.78,47
+Adult Spotted Seatrout,3.85,4.2,4.03,3.37,54
+Juvenile Spotted Seatrout,3.71,4.03,3.87,2.78,76
+Juvenile Spot,2.98,3.23,3.09,2.57,83
+Sack Oyster,2.28,2.41,2.34,2.05,134
+Silversides,2.92,3.12,3.02,2.55,208
+Juvenile Brown Shrimp,2.31,2.44,2.38,2.05,213
+Adult Grey Snapper,2,9.22,3.53,3.31,1
+Juvenile Bay Anchovy,2.02,9.26,3.73,2.96,1
+Adult Black Drum,2,9.16,3.01,2.69,1
+Juvenile Black Drum,2,9.26,2.92,2.33,1
+Juvenile White Shrimp,2,9.21,2.93,2.05,1
+Adult Sand Seatrout,2.01,6.56,3.83,2.94,2
+Adult Gizzard Shad,2,7.4,2.65,2,2
+Adult White Shrimp,2.03,3.4,2.65,2.16,3
+Adult Sheepshead,2.9,3.4,3.14,3.11,8
+Juvenile Gulf Menhaden,2.88,3.21,3.03,3,23
+Juvenile Largemouth Bass,2.93,3.16,3.04,2.98,142
+Juvenile Sunfishes,2.52,9.95,2.61,2.9,168
+Juvenile Blue Crab,2.34,2.48,2.41,2.37,226
+Mud Crab,2.99,3.75,3.54,2,10
+Adult Gulf Menhaden,2.28,3.18,2.71,2.02,17
+Juvenile Red Drum,3.05,3.5,3.28,2.35,26
+Dolphins,4.03,4.39,4.21,3.45,82
+Grass Shrimp,2.63,2.78,2.7,2.05,179
+Mollusk,2.22,2.33,2.28,2,313
